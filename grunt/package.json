@@ -1,0 +1,26 @@
+{
+  "name": "grunt-task-runner",
+  "version": "1.0.0",
+  "description": "Learning about task runners in nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rish72/LearningGrunt.git"
+  },
+  "author": "RishabhGoel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rish72/LearningGrunt/issues"
+  },
+  "homepage": "https://github.com/Rish72/LearningGrunt#readme",
+  "dependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-uglify": "^5.2.2"
+  },
+  "devDependencies": {
+    "grunt-contrib-cssmin": "^5.0.0"
+  }
+}
