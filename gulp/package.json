@@ -1,0 +1,24 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "Learning task management with gulp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rish72/LearningGrunt.git"
+  },
+  "author": "Rishabh Goel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rish72/LearningGrunt/issues"
+  },
+  "homepage": "https://github.com/Rish72/LearningGrunt#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-imagemin": "^9.1.0"
+  }
+}
